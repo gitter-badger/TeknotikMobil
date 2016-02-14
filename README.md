@@ -1,6 +1,6 @@
 # Teknotik Resmi Mobil Uygulaması
 
-![Moil Promo](http://teknotik.org/cdn/mobil-promo.jpg)
+![Mobil Promo](http://teknotik.org/cdn/mobil-promo.jpg)
 
 Android Materyal Tasarımıyla Yenilikçi Hibrit Resmi Teknotik Mobil Uygulamamızı Keşfedin...
 
