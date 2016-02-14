@@ -1,5 +1,7 @@
 # Teknotik Resmi Mobil Uygulaması
 
+[![Join the chat at https://gitter.im/alcholever/TeknotikMobil](https://badges.gitter.im/alcholever/TeknotikMobil.svg)](https://gitter.im/alcholever/TeknotikMobil?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Mobil Promo](http://teknotik.org/cdn/mobil-promo.jpg)
 
 Android Materyal Tasarımıyla Yenilikçi Hibrit Resmi Teknotik Mobil Uygulamamızı Keşfedin...
